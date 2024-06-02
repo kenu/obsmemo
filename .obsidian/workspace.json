@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "0dde4af8b5269238",
+        "id": "ac1870fc937a5e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "714e14ef6d66c043",
+            "id": "135d44be723731f2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "okdevtv/240602.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "44ed747209b5a05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "okdevtv/240602.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eddbc4fac758f16f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "okdevtv/240602.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "okdevtv/240602.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +145,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "okdevtv/240602.md"
+              }
             }
           },
           {
-            "id": "183a581a7a06b678",
+            "id": "2d36a5dc5bf91a96",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -149,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714e14ef6d66c043",
+  "active": "44ed747209b5a05a",
   "lastOpenFiles": [
     "Welcome.md",
-    "create a link.md",
+    "java/synchronized.md",
     "okdevtv/240602.md",
     "okdevtv",
     "2024-06-02.md",
