@@ -7,3 +7,4 @@ When you're ready, delete this note and make the vault your own.
 [[240602]]
 - [[inheritance]]
 - [[synchronized]]
+[[240603]]
