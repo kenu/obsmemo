@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f689113283fda3ee","type":"text","text":"Hardware","x":-125,"y":60,"width":250,"height":60},
+		{"id":"9f2f9c37caba0ca2","type":"text","text":"OS","x":-125,"y":-20,"width":250,"height":60},
+		{"id":"2fa6bc35b6f51766","type":"text","text":"Software","x":48,"y":-100,"width":173,"height":60},
+		{"id":"36ad429d96fd825f","type":"text","text":"JVM","x":-125,"y":-100,"width":145,"height":60},
+		{"id":"d5fe9e234cbe18b1","type":"text","text":"Java Application","x":-125,"y":-180,"width":145,"height":60},
+		{"id":"291a64e3ffa31104","x":60,"y":-240,"width":160,"height":120,"type":"file","file":"C/컴파일.md"}
+	],
+	"edges":[
+		{"id":"5ed453eae4b49a04","fromNode":"f689113283fda3ee","fromSide":"top","toNode":"9f2f9c37caba0ca2","toSide":"bottom"}
+	]
+}

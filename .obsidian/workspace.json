@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19291bbb6835cf65",
+        "id": "25352220cbd581a1",
         "type": "tabs",
         "children": [
           {
-            "id": "7ddc2053fd284e34",
+            "id": "72d4af2dcffb80d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/synchronized.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6f02893b290dee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "okdevtv/240605.md",
+                "file": "okdevtv/240606 - eGov MSA 예제.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240605.md",
+                "file": "okdevtv/240606 - eGov MSA 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240605.md",
+                "file": "okdevtv/240606 - eGov MSA 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240605.md"
+                "file": "okdevtv/240606 - eGov MSA 예제.md"
               }
             }
           },
@@ -151,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,17 +153,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6f02893b290dee8",
+  "active": "72d4af2dcffb80d8",
   "lastOpenFiles": [
+    "okdevtv/OKdevTV.md",
+    "다이어그램.canvas",
     "Welcome.md",
+    "okdevtv/240606 - eGov MSA 예제.md",
+    "okdevtv/240602.md",
+    "C/C index.md",
+    "C/컴파일.md",
+    "C/기본문법.md",
     "java/synchronized.md",
+    "C",
+    "java/inheritance.md",
     "okdevtv/240605.md",
     "okdevtv/240603.md",
-    "okdevtv/240602.md",
     "create a link.md",
     "okdevtv",
     "2024-06-02.md",
-    "java/inheritance.md",
     "java"
   ]
 }
