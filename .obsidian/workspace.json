@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b342718b954143b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "okdevtv/240607.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240606 - eGov MSA 예제.md",
+                "file": "okdevtv/240607.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240606 - eGov MSA 예제.md",
+                "file": "okdevtv/240607.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240606 - eGov MSA 예제.md"
+                "file": "okdevtv/240607.md"
               }
             }
           },
@@ -153,12 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72d4af2dcffb80d8",
+  "active": "b342718b954143b7",
   "lastOpenFiles": [
     "okdevtv/OKdevTV.md",
+    "okdevtv/240607.md",
+    "okdevtv/240606 - eGov MSA 예제.md",
     "다이어그램.canvas",
     "Welcome.md",
-    "okdevtv/240606 - eGov MSA 예제.md",
     "okdevtv/240602.md",
     "C/C index.md",
     "C/컴파일.md",
