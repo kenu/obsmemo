@@ -15,3 +15,11 @@
 - [tomcat](https://okdevtv.com/mib/java/tomcat)
 - [war](https://okdevtv.com/mib/java/war)
 - [deploy](https://okdevtv.com/mib/java/deploy)
+[[240608]]
+- [maven](https://okdevtv.com/mib/java/maven)
+- [gradle](https://okdevtv.com/mib/java/gradle)
+- [ant](https://okdevtv.com/mib/java/ant)
+- [lombok](https://okdevtv.com/mib/java/lombok)
+- [excel](https://okdevtv.com/mib/java/excel)
+
+
