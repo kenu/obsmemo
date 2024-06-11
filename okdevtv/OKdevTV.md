@@ -22,4 +22,5 @@
 - [lombok](https://okdevtv.com/mib/java/lombok)
 - [excel](https://okdevtv.com/mib/java/excel)
 
+[[240611 Ubuntu ec2]]
 
