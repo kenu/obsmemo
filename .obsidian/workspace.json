@@ -8,22 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bd6bdd934903e6f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "31f69dfb66ae0c53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "okdevtv/240613.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -55,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dust",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "okdevtv/240613.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "okdevtv/240613.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "okdevtv/240613.md"
+              }
             }
           },
           {
@@ -157,12 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bd6bdd934903e6f",
+  "active": "31f69dfb66ae0c53",
   "lastOpenFiles": [
-    "tmp.md",
-    "okdevtv/240611 Ubuntu ec2.md",
-    "Untitled.md",
     "okdevtv/OKdevTV.md",
+    "okdevtv/240611 Ubuntu ec2.md",
+    "okdevtv/240613.md",
+    "java quiz.md",
+    "okdevtv/240605.md",
+    "tmp.md",
+    "Untitled.md",
     "Welcome.md",
     "okdevtv/240608.md",
     "okdevtv/240606 - eGov MSA 예제.md",
@@ -175,7 +175,6 @@
     "java/synchronized.md",
     "C",
     "java/inheritance.md",
-    "okdevtv/240605.md",
     "okdevtv/240603.md",
     "create a link.md",
     "okdevtv",

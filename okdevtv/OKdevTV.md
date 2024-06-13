@@ -23,4 +23,5 @@
 - [excel](https://okdevtv.com/mib/java/excel)
 
 [[240611 Ubuntu ec2]]
-
+[[240613]]
+- [java quiz](https://www.w3schools.com/java/default.asp)
