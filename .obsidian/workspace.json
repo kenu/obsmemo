@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b4b809484fd3aeb",
+        "id": "e10796a592610d3c",
         "type": "tabs",
         "children": [
           {
-            "id": "31f69dfb66ae0c53",
+            "id": "66b996dd6f2c85fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240613.md",
+                "file": "okdevtv/240614.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240613.md",
+                "file": "okdevtv/240614.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240613.md",
+                "file": "okdevtv/240614.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "c5723873d93dbc7c",
+            "id": "1e48d9dd622bde0b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240613.md"
+                "file": "okdevtv/240614.md"
               }
             }
           },
           {
-            "id": "183a581a7a06b678",
+            "id": "6c73380eaa18d9df",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31f69dfb66ae0c53",
+  "active": "66b996dd6f2c85fe",
   "lastOpenFiles": [
     "okdevtv/OKdevTV.md",
-    "okdevtv/240611 Ubuntu ec2.md",
+    "okdevtv/240614.md",
     "okdevtv/240613.md",
+    "okdevtv/240611 Ubuntu ec2.md",
     "java quiz.md",
     "okdevtv/240605.md",
     "tmp.md",
