@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"f31b318999f9b52e","x":-145,"y":-120,"width":185,"height":50,"type":"text","text":"Presentation"},
+		{"id":"aaf934afceec6826","type":"text","text":"Application","x":-92,"y":-25,"width":185,"height":50},
+		{"id":"454ef9db8e194228","type":"text","text":"\bDomain","x":-52,"y":60,"width":185,"height":50}
+	],
+	"edges":[]
+}

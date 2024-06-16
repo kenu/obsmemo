@@ -1,3 +1,28 @@
+
+
+2. 
+3. **기초 지식 및 CI의 중요성 (30분)**
+    - 소프트웨어 개발 생명주기의 개요
+    - 버그 발견 및 수정 과정에서의 문제점
+    - CI가 제공하는 이점: 빠른 피드백, 자동화된 테스트, 코드 품질 향상
+
+4. **CI의 정의 및 원리 (45분)**
+    - CI의 정의: 지속적인 통합
+    - CI의 목적: 코드의 통합과 테스트를 자동화하여 소프트웨어 개발 프로세스를 가속화하고 안정성을 높이는 것
+    - CI 파이프라인의 구성 요소: 소스 컨트롤, 빌드 시스템, 테스트 프레임워크, 배포 도구
+    - CI 파이프라인의 작동 방식: 코드 변경 시 자동으로 빌드 및 테스트 실행
+
+5. **CI 도구 및 플랫폼 소개 (60분)**
+    - 주요 CI 도구: Jenkins, GitLab CI, CircleCI, GitHub Actions
+    - 각 도구의 특징 및 사용 사례
+    - CI 파이프라인 구축 예시: Jenkinsfile 작성, GitHub Actions YAML 파일 설정
+    - CI 파이프라인의 예시: 자동 빌드, 단위 테스트, 통합 테스트, 배포 스크립트 실행
+zstd
+https://github.com/facebook/zstd/releases/download/v1.5.6/zstd-v1.5.6-win64.zip
+
+
+
+
 https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/add-instance-store-volumes.html
 https://docs.aws.amazon.com/ebs/latest/userguide/ebs-using-volumes.html#ebs-mount-after-reboot
 
