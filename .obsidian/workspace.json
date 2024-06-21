@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240616.md",
+                "file": "okdevtv/240621.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240616.md",
+                "file": "okdevtv/240621.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240616.md",
+                "file": "okdevtv/240621.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240616.md"
+                "file": "okdevtv/240621.md"
               }
             }
           },
@@ -156,6 +156,18 @@
   },
   "active": "66b996dd6f2c85fe",
   "lastOpenFiles": [
+    "okdevtv/images/01-agenda.png",
+    "okdevtv/240621.md",
+    "okdevtv/images/02-title.png",
+    "okdevtv/images/03-mechelle-duke.png",
+    "okdevtv/images/03a-captions.png",
+    "okdevtv/images/04-agenda.png",
+    "okdevtv/images/05-impact-of-github-copilot-450-developers.png",
+    "okdevtv/images/06-copilot-features.png",
+    "okdevtv/images/07-sw-lifecycle.png",
+    "okdevtv/images/08-pr-summary.png",
+    "okdevtv/images/11-ai-powered-dev.png",
+    "okdevtv/images",
     "okdevtv/OKdevTV.md",
     "okdevtv/240616.md",
     "Untitled.canvas",
