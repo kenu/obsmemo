@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "292a355d18d4123c",
+        "id": "5938b3456c2312b5",
         "type": "tabs",
         "children": [
           {
-            "id": "de3ff9ea0a0d9c89",
+            "id": "1908324ca133e5b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/OKdevTV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7a5d188917a5215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "okdevtv/240628.md",
+                "file": "okdevtv/240702.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240628.md",
+                "file": "okdevtv/240702.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240628.md",
+                "file": "okdevtv/240702.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,23 +114,23 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "1e48d9dd622bde0b",
+            "id": "3a7208b21d0411cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240628.md"
+                "file": "okdevtv/240702.md"
               }
             }
           },
           {
-            "id": "6c73380eaa18d9df",
+            "id": "3cb7af28c1418d51",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7a5d188917a5215",
+  "active": "1908324ca133e5b7",
   "lastOpenFiles": [
     "okdevtv/OKdevTV.md",
+    "okdevtv/240702.md",
     "okdevtv/240628.md",
     "okdevtv/240625.md",
     "okdevtv/240624.md",
@@ -209,7 +197,6 @@
     "okdevtv/240603.md",
     "create a link.md",
     "okdevtv",
-    "2024-06-02.md",
     "java"
   ]
 }
