@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5938b3456c2312b5",
+        "id": "99d06e9042db5586",
         "type": "tabs",
         "children": [
           {
-            "id": "1908324ca133e5b7",
+            "id": "4682f5ff32ffab1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240702.md",
+                "file": "okdevtv/240703.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240702.md",
+                "file": "okdevtv/240703.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240702.md",
+                "file": "okdevtv/240703.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240702.md"
+                "file": "okdevtv/240703.md"
               }
             }
           },
@@ -154,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1908324ca133e5b7",
+  "active": "4682f5ff32ffab1a",
   "lastOpenFiles": [
     "okdevtv/OKdevTV.md",
+    "okdevtv/240703.md",
     "okdevtv/240702.md",
     "okdevtv/240628.md",
     "okdevtv/240625.md",
@@ -195,7 +196,6 @@
     "C",
     "java/inheritance.md",
     "okdevtv/240603.md",
-    "create a link.md",
     "okdevtv",
     "java"
   ]
