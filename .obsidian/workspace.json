@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240706.md",
+                "file": "okdevtv/240707.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240706.md",
+                "file": "okdevtv/240707.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240706.md",
+                "file": "okdevtv/240707.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240706.md"
+                "file": "okdevtv/240707.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "08314a40bb0c7777",
   "lastOpenFiles": [
     "okdevtv/OKdevTV.md",
+    "okdevtv/240707.md",
     "okdevtv/240706.md",
     "okdevtv/240705.md",
     "okdevtv/240703.md",
@@ -194,7 +195,6 @@
     "C/C index.md",
     "C/컴파일.md",
     "C/기본문법.md",
-    "java/synchronized.md",
     "C",
     "okdevtv",
     "java"
