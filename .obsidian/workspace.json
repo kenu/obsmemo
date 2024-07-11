@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240711.md",
+                "file": "okdevtv/240712.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240711.md",
+                "file": "okdevtv/240712.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240711.md",
+                "file": "okdevtv/240712.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240711.md"
+                "file": "okdevtv/240712.md"
               }
             }
           },
@@ -155,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08314a40bb0c7777",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "okdevtv/OKdevTV.md",
-    "240711.md",
+    "okdevtv/240712.md",
+    "okdevtv/240711.md",
     "okdevtv/240708.md",
     "Untitled.md",
     "okdevtv/240707.md",
@@ -195,7 +195,6 @@
     "okdevtv/240607.md",
     "다이어그램.canvas",
     "okdevtv/240602.md",
-    "C/C index.md",
     "C",
     "okdevtv",
     "java"
