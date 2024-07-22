@@ -275,3 +275,49 @@ ls -altr
 
 https://github.com/ToonCrafter/ToonCrafter
 
+
+```
+[Unit]
+Description=yona
+After=syslog.target network.target
+
+[Service]
+User=ec2-user
+Group=ec2-user
+
+ExecStart=/home/ec2-user/local/reyona.sh
+ExecStop=/bin/kill -15 $MAINPID
+SuccessExitStatus=143
+
+[Install]
+WantedBy=multi-user.target
+```
+
+- `vi ~/local/reyona.sh`
+```
+#!/usr/bin/zsh
+HOME=/home/ec2-user
+source $HOME/.zshrc
+
+test -f $HOME/local/yona/RUNNING_PID && rm -f $HOME/local/yona/RUNNING_PID
+
+nohup $HOME/local/yona/bin/yona&
+```
+
+- `chmod +x ~/local/reyona.sh`
+- `~/local/reyona.sh`
+
+https://okdevtv.com/mib/yona
+
+1. ec2 instance
+2. install mariadb105
+3. install java11, not 17
+
+
+
+~~~~~~
+* VS Code로 쉽게 시작하는 Git, GitHub
+  * 인프런: https://inf.run/LPpDg
+* React + API Server 프로젝트 개발과 배포 #CI/CD
+  * https://bit.ly/oklearnreact
+
