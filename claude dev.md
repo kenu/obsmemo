@@ -1,0 +1,2 @@
+Task
+Create a landing page for an Al SaaS Startup using React, TailwindCSS, and Shadcn. The startup will help creators generate fun and cool ooking images starting base images with text prompts. Make sure the hero section has a cool SVG with the main theme of the startup. The rest of the landing page should include features section, user reviews from twitter section, how it works section and a footer. Make this project

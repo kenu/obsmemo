@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "980093c727005c97",
+        "id": "20c296bce95d4e85",
         "type": "tabs",
         "children": [
           {
-            "id": "0e5c244b93a559d0",
+            "id": "607f58eccfc3e1d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2030b28809e6e977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "claude dev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240722.md",
+                "file": "claude dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240722.md",
+                "file": "claude dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240722.md"
+                "file": "claude dev.md"
               }
             }
           },
@@ -154,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e5c244b93a559d0",
+  "active": "2030b28809e6e977",
   "lastOpenFiles": [
-    "okdevtv/OKdevTV.md",
     "okdevtv/240722.md",
+    "claude dev.md",
+    "okdevtv/OKdevTV.md",
     "tmp.md",
     "Untitled.canvas",
     "okdevtv/240713.md",
     "okdevtv/240712.md",
     "okdevtv/240711.md",
     "okdevtv/240708.md",
-    "Untitled.md",
     "okdevtv/240707.md",
     "okdevtv/240706.md",
     "okdevtv/240705.md",
