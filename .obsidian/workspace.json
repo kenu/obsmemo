@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5e68bbe4bf73bf",
+        "id": "aac110184bc6c02e",
         "type": "tabs",
         "children": [
           {
-            "id": "070f13bf5fa6740c",
+            "id": "63dc620dfc2fa1c4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "claude dev.md",
-                "staged": false
+                "file": "okdevtv/240724b.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "okdevtv/240724b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "okdevtv/240724b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "okdevtv/240724b.md"
+              }
             }
           },
           {
@@ -149,16 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "070f13bf5fa6740c",
+  "active": "63dc620dfc2fa1c4",
   "lastOpenFiles": [
+    "okdevtv/OKdevTV.md",
+    "okdevtv/240724b.md",
+    "okdevtv/240724.md",
+    "prompts/prompts.md",
+    "C/컴파일.md",
+    "C/기본문법.md",
+    "C/C index.md",
+    "java/synchronized.md",
+    "java/inheritance.md",
     "Welcome.md",
     "prompts/Claude dev extension.md",
     "Layer.canvas",
     "다이어그램.canvas",
-    "prompts/prompts.md",
-    "okdevtv/240724.md",
     "okdevtv/240723.md",
-    "okdevtv/OKdevTV.md",
     "prompts",
     "okdevtv/240722.md",
     "tmp.md",
@@ -174,7 +185,6 @@
     "okdevtv/240628.md",
     "okdevtv/240625.md",
     "okdevtv/240624.md",
-    "okdevtv/240621.md",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
@@ -186,10 +196,6 @@
     "okdevtv/images/08-pr-summary.png",
     "okdevtv/images/11-ai-powered-dev.png",
     "okdevtv/images",
-    "okdevtv/240616.md",
-    "okdevtv/240614.md",
-    "okdevtv/240613.md",
-    "okdevtv/240611 Ubuntu ec2.md",
     "C",
     "okdevtv",
     "java"
