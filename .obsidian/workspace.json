@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aac110184bc6c02e",
+        "id": "6b4e6a400d888877",
         "type": "tabs",
         "children": [
           {
-            "id": "63dc620dfc2fa1c4",
+            "id": "6ac8d75092d74657",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "okdevtv/240725.md",
-                "mode": "source",
-                "source": false
+                "file": "tmp.md",
+                "staged": true
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240725.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240725.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "okdevtv/240725.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +149,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63dc620dfc2fa1c4",
+  "active": "6ac8d75092d74657",
   "lastOpenFiles": [
-    "okdevtv/OKdevTV.md",
-    "okdevtv/240725.md",
+    "tmp.md",
+    "okdevtv/240726.md",
     "okdevtv/240724b.md",
     "okdevtv/240724.md",
+    "okdevtv/OKdevTV.md",
+    "okdevtv/240725.md",
     "prompts/prompts.md",
     "C/컴파일.md",
     "C/기본문법.md",
@@ -173,7 +170,6 @@
     "okdevtv/240723.md",
     "prompts",
     "okdevtv/240722.md",
-    "tmp.md",
     "okdevtv/240713.md",
     "okdevtv/240712.md",
     "okdevtv/240711.md",
@@ -184,7 +180,6 @@
     "okdevtv/240703.md",
     "okdevtv/240702.md",
     "okdevtv/240628.md",
-    "okdevtv/240625.md",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
