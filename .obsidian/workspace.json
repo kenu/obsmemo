@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6b4e6a400d888877",
+        "id": "552f32c8a363b6eb",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac8d75092d74657",
+            "id": "c0ead7d7ef30298e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "tmp.md",
-                "staged": true
+                "file": "okdevtv/240728.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "okdevtv/240728.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "okdevtv/240728.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "okdevtv/240728.md"
+              }
             }
           },
           {
@@ -149,13 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ac8d75092d74657",
+  "active": "c0ead7d7ef30298e",
   "lastOpenFiles": [
+    "okdevtv/OKdevTV.md",
+    "okdevtv/240728.md",
     "tmp.md",
     "okdevtv/240726.md",
     "okdevtv/240724b.md",
     "okdevtv/240724.md",
-    "okdevtv/OKdevTV.md",
     "okdevtv/240725.md",
     "prompts/prompts.md",
     "C/컴파일.md",
@@ -179,7 +185,6 @@
     "okdevtv/240705.md",
     "okdevtv/240703.md",
     "okdevtv/240702.md",
-    "okdevtv/240628.md",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
