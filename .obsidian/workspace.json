@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240728.md",
+                "file": "okdevtv/240729.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e57aac2ef029750a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "소개",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240728.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240728.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "okdevtv/240728.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0ead7d7ef30298e",
+  "active": "3cb7af28c1418d51",
   "lastOpenFiles": [
+    "0729.md",
+    "okdevtv/240729.md",
+    "prompts/prompts.md",
+    "okdevtv/240602.md",
     "okdevtv/OKdevTV.md",
     "okdevtv/240728.md",
     "tmp.md",
@@ -163,7 +175,6 @@
     "okdevtv/240724b.md",
     "okdevtv/240724.md",
     "okdevtv/240725.md",
-    "prompts/prompts.md",
     "C/컴파일.md",
     "C/기본문법.md",
     "C/C index.md",
@@ -182,9 +193,6 @@
     "okdevtv/240708.md",
     "okdevtv/240707.md",
     "okdevtv/240706.md",
-    "okdevtv/240705.md",
-    "okdevtv/240703.md",
-    "okdevtv/240702.md",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
