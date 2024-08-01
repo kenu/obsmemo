@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240731.md",
+                "file": "okdevtv/240801.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240731.md",
+                "file": "okdevtv/240801.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240731.md",
+                "file": "okdevtv/240801.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240731.md"
+                "file": "okdevtv/240801.md"
               }
             }
           },
@@ -154,12 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24fe94ef09cd7330",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "okdevtv/OKdevTV.md",
-    "okdevtv/240706.md",
+    "okdevtv/240801.md",
+    "okdevtv/240731.md",
     "okdevtv/240730.md",
-    "240731.md",
+    "okdevtv/240706.md",
     "prompts/prompts.md",
     "tmp.md",
     "Untitled.md",
@@ -184,7 +186,6 @@
     "prompts",
     "okdevtv/240722.md",
     "okdevtv/240713.md",
-    "okdevtv/240712.md",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
