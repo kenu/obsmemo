@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240801.md",
+                "file": "okdevtv/240802.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240801.md",
+                "file": "okdevtv/240802.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240801.md",
+                "file": "okdevtv/240802.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240801.md"
+                "file": "okdevtv/240802.md"
               }
             }
           },
@@ -155,9 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "24fe94ef09cd7330",
   "lastOpenFiles": [
-    "okdevtv/OKdevTV.md",
+    "OKdevTV.md",
+    "okdevtv/240802.md",
+    "Layer.canvas",
     "okdevtv/240801.md",
     "okdevtv/240731.md",
     "okdevtv/240730.md",
@@ -180,12 +182,10 @@
     "java/inheritance.md",
     "Welcome.md",
     "prompts/Claude dev extension.md",
-    "Layer.canvas",
     "다이어그램.canvas",
     "okdevtv/240723.md",
     "prompts",
     "okdevtv/240722.md",
-    "okdevtv/240713.md",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
