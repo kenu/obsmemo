@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240802.md",
+                "file": "240803.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240802.md",
+                "file": "240803.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240802.md",
+                "file": "240803.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240802.md"
+                "file": "240803.md"
               }
             }
           },
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +158,7 @@
   "active": "24fe94ef09cd7330",
   "lastOpenFiles": [
     "OKdevTV.md",
+    "240803.md",
     "okdevtv/240802.md",
     "Layer.canvas",
     "okdevtv/240801.md",
@@ -185,7 +186,6 @@
     "다이어그램.canvas",
     "okdevtv/240723.md",
     "prompts",
-    "okdevtv/240722.md",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
