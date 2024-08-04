@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "ba6ec6f3c81f7e99",
   "lastOpenFiles": [
     "OKdevTV.md",
     "okdevtv/240804.md",
