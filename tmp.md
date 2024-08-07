@@ -325,3 +325,9 @@ https://okdevtv.com/mib/yona
 
 
 https://archive.org/details/WindowsXPProfessionalKwithServicePack3Korean
+
+* wifi:
+KT_GiGA_5G_7EF2
+ef76zx2148
+KT_GiGA_7EF2
+ef76zx2148

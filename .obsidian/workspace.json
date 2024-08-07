@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2174deea478ad6d9",
+        "id": "e50852237d5591ab",
         "type": "tabs",
         "children": [
           {
-            "id": "ba6ec6f3c81f7e99",
+            "id": "5eebb6fd410d6cea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240804.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406b3315070ec09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "okdevtv/240805-winxp.md",
+                "file": "okdevtv/240807-ollama.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240805-winxp.md",
+                "file": "okdevtv/240807-ollama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240805-winxp.md",
+                "file": "okdevtv/240807-ollama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240805-winxp.md"
+                "file": "okdevtv/240807-ollama.md"
               }
             }
           },
@@ -167,12 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "5eebb6fd410d6cea",
   "lastOpenFiles": [
     "OKdevTV.md",
-    "okdevtv/240805-winxp.md",
-    "next.md",
+    "okdevtv/240807-ollama.md",
     "okdevtv/240804.md",
+    "okdevtv/240805-winxp.md",
+    "tmp.md",
+    "next.md",
     "okdevtv/240803.md",
     "okdevtv/240802.md",
     "Layer.canvas",
@@ -181,7 +170,6 @@
     "okdevtv/240730.md",
     "okdevtv/240706.md",
     "prompts/prompts.md",
-    "tmp.md",
     "okdevtv/240729.md",
     "0729.md",
     "okdevtv/240602.md",
@@ -195,7 +183,6 @@
     "C/C index.md",
     "java/synchronized.md",
     "java/inheritance.md",
-    "Welcome.md",
     "다이어그램.canvas",
     "prompts",
     "okdevtv/images/01-agenda.png",
