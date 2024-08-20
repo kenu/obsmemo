@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e50852237d5591ab",
+        "id": "cc3990c289058966",
         "type": "tabs",
         "children": [
           {
-            "id": "5eebb6fd410d6cea",
+            "id": "ec511e18313f0077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240807-ollama.md",
+                "file": "okdevtv/240820-spring-ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240807-ollama.md",
+                "file": "okdevtv/240820-spring-ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240807-ollama.md",
+                "file": "okdevtv/240820-spring-ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240807-ollama.md"
+                "file": "okdevtv/240820-spring-ai.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,17 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eebb6fd410d6cea",
+  "active": "ec511e18313f0077",
   "lastOpenFiles": [
-    "OKdevTV.md",
+    "!OKdevTV.md",
+    "okdevtv/240820-spring-ai.md",
+    "next.md",
+    "canvas/다이어그램.canvas",
+    "canvas/Layer.canvas",
+    "canvas",
+    "okdevtv/240817-youtube-transcript.md",
+    "okdevtv/240815-transcript.md",
+    "okdevtv/240814-langchain.md",
+    "okdevtv/240809-nvidia.md",
+    "tmp.md",
+    "Untitled.canvas",
+    "okdevtv/240808-mount.md",
     "okdevtv/240807-ollama.md",
     "okdevtv/240804.md",
     "okdevtv/240805-winxp.md",
-    "tmp.md",
-    "next.md",
     "okdevtv/240803.md",
     "okdevtv/240802.md",
-    "Layer.canvas",
     "okdevtv/240801.md",
     "okdevtv/240731.md",
     "okdevtv/240730.md",
@@ -177,13 +186,6 @@
     "okdevtv/240726.md",
     "okdevtv/240724b.md",
     "okdevtv/240724.md",
-    "okdevtv/240725.md",
-    "C/컴파일.md",
-    "C/기본문법.md",
-    "C/C index.md",
-    "java/synchronized.md",
-    "java/inheritance.md",
-    "다이어그램.canvas",
     "prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
