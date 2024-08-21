@@ -66,6 +66,10 @@
 [[240815-transcript]]
 [[240817-youtube-transcript]]
 [[240820-spring-ai]]
+[[240821-errcover]]
+[[240821-oklive]]
+[[240822-zed]]
+
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240820-spring-ai.md",
+                "file": "okdevtv/240822-zed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240820-spring-ai.md",
+                "file": "okdevtv/240822-zed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240820-spring-ai.md",
+                "file": "okdevtv/240822-zed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240820-spring-ai.md"
+                "file": "okdevtv/240822-zed.md"
               }
             }
           },
@@ -154,11 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec511e18313f0077",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "!OKdevTV.md",
-    "okdevtv/240820-spring-ai.md",
+    "okdevtv/240822-zed.md",
+    "okdevtv/240821-oklive.md",
+    "okdevtv/240821-errcover.md",
+    "Untitled.md",
+    "tmp.md",
     "next.md",
+    "okdevtv/240820-spring-ai.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
@@ -166,7 +171,6 @@
     "okdevtv/240815-transcript.md",
     "okdevtv/240814-langchain.md",
     "okdevtv/240809-nvidia.md",
-    "tmp.md",
     "Untitled.canvas",
     "okdevtv/240808-mount.md",
     "okdevtv/240807-ollama.md",
@@ -182,10 +186,6 @@
     "okdevtv/240729.md",
     "0729.md",
     "okdevtv/240602.md",
-    "okdevtv/240728.md",
-    "okdevtv/240726.md",
-    "okdevtv/240724b.md",
-    "okdevtv/240724.md",
     "prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
