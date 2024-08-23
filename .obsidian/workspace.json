@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240822-zed.md",
+                "file": "okdevtv/240823-claude.ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240822-zed.md",
+                "file": "okdevtv/240823-claude.ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240822-zed.md",
+                "file": "okdevtv/240823-claude.ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240822-zed.md"
+                "file": "okdevtv/240823-claude.ai.md"
               }
             }
           },
@@ -154,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "ec511e18313f0077",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/240823-claude.ai.md",
     "okdevtv/240822-zed.md",
     "okdevtv/240821-oklive.md",
     "okdevtv/240821-errcover.md",
@@ -185,7 +186,6 @@
     "prompts/prompts.md",
     "okdevtv/240729.md",
     "0729.md",
-    "okdevtv/240602.md",
     "prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
