@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240823-claude.ai.md",
+                "file": "240824-llama405b.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.50260543823242
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240823-claude.ai.md",
+                "file": "240824-llama405b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240823-claude.ai.md",
+                "file": "240824-llama405b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240823-claude.ai.md"
+                "file": "240824-llama405b.md"
               }
             }
           },
@@ -154,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec511e18313f0077",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "240824-llama405b.md",
     "okdevtv/240823-claude.ai.md",
     "okdevtv/240822-zed.md",
     "okdevtv/240821-oklive.md",
@@ -185,7 +186,6 @@
     "okdevtv/240706.md",
     "prompts/prompts.md",
     "okdevtv/240729.md",
-    "0729.md",
     "prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
