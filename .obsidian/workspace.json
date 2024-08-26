@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240824-llama405b.md",
+                "file": "okdevtv/240824-llama405b.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240824-llama405b.md",
+                "file": "okdevtv/240824-llama405b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240824-llama405b.md",
+                "file": "okdevtv/240824-llama405b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240824-llama405b.md"
+                "file": "okdevtv/240824-llama405b.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   "active": "72a84376f9400777",
   "lastOpenFiles": [
     "!OKdevTV.md",
-    "240824-llama405b.md",
+    "okdevtv/240824-llama405b.md",
     "okdevtv/240823-claude.ai.md",
     "okdevtv/240822-zed.md",
     "okdevtv/240821-oklive.md",
