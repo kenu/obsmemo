@@ -1,4 +1,4 @@
-
+https://www.simplilearn.com/tutorials/hadoop-tutorial/hadoop-ecosystem
 
 2. 
 3. **기초 지식 및 CI의 중요성 (30분)**

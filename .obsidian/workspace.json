@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc3990c289058966",
+        "id": "d944314e9d62d01d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec511e18313f0077",
+            "id": "87d8440eff4b7f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240824-llama405b.md",
+                "file": "okdevtv/240827-nutch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240824-llama405b.md",
+                "file": "okdevtv/240827-nutch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240824-llama405b.md",
+                "file": "okdevtv/240827-nutch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240824-llama405b.md"
+                "file": "okdevtv/240827-nutch.md"
               }
             }
           },
@@ -154,16 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "87d8440eff4b7f79",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/240827-nutch.md",
+    "okdevtv/240826-GCP.md",
+    "tmp.md",
     "okdevtv/240824-llama405b.md",
     "okdevtv/240823-claude.ai.md",
     "okdevtv/240822-zed.md",
     "okdevtv/240821-oklive.md",
     "okdevtv/240821-errcover.md",
     "Untitled.md",
-    "tmp.md",
     "next.md",
     "okdevtv/240820-spring-ai.md",
     "canvas/다이어그램.canvas",
@@ -184,8 +186,6 @@
     "okdevtv/240731.md",
     "okdevtv/240730.md",
     "okdevtv/240706.md",
-    "prompts/prompts.md",
-    "okdevtv/240729.md",
     "prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
