@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240827-odevtube.md",
+                "file": "okdevtv/240828-devnews.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240827-odevtube.md",
+                "file": "okdevtv/240828-devnews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240827-odevtube.md",
+                "file": "okdevtv/240828-devnews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240827-odevtube.md"
+                "file": "okdevtv/240828-devnews.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "87d8440eff4b7f79",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/240828-devnews.md",
     "okdevtv/240827-odevtube.md",
     "okdevtv/240827-nutch.md",
     "okdevtv/240826-GCP.md",
@@ -185,7 +186,6 @@
     "okdevtv/240802.md",
     "okdevtv/240801.md",
     "okdevtv/240731.md",
-    "okdevtv/240730.md",
     "prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
