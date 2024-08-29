@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240830-python.md",
+                "file": "okdevtv/240830-python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240830-python.md",
+                "file": "okdevtv/240830-python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240830-python.md",
+                "file": "okdevtv/240830-python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240830-python.md"
+                "file": "okdevtv/240830-python.md"
               }
             }
           },
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e084ca61a7fbdc73",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "!OKdevTV.md",
-    "240830-python.md",
+    "okdevtv/240830-python.md",
     "Welcome.md",
     "tmp.md",
     "next.md",
