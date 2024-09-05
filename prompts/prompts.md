@@ -1,6 +1,11 @@
 Whip up a fun tic-tac-toe website, but instead of boring X's and O's, use boy and girl! Same old game, just way cuter. Get it done...
 
 ---
+Whip up a clean admin dashboard website with responsible mobile and desktop both. Get it done...
+
+
+
+---
 Create a landing page for an Blog SaaS Startup using React, TailwindCSS, and Shadcn. with the data page https://jsonplaceholder.typicode.com/
 
 ---

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fea7d792a3980c4",
+        "id": "dc5e4562022d1c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e084ca61a7fbdc73",
+            "id": "0d9cdb1bdd064c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240830-python.md",
+                "file": "okdevtv/240905-nextjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240830-python.md",
+                "file": "okdevtv/240905-nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240830-python.md",
+                "file": "okdevtv/240905-nextjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240830-python.md"
+                "file": "okdevtv/240905-nextjs.md"
               }
             }
           },
@@ -154,13 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "0d9cdb1bdd064c53",
   "lastOpenFiles": [
+    "next.md",
+    "okdevtv/240905-nextjs.md",
+    "5 16 27 39 11.md",
     "!OKdevTV.md",
+    "prompts/prompts.md",
     "okdevtv/240830-python.md",
     "Welcome.md",
     "tmp.md",
-    "next.md",
     "okdevtv/240829-gh-cli.md",
     "okdevtv/240828-devnews.md",
     "okdevtv/240827-odevtube.md",
@@ -171,7 +174,6 @@
     "okdevtv/240822-zed.md",
     "okdevtv/240821-oklive.md",
     "okdevtv/240821-errcover.md",
-    "Untitled.md",
     "okdevtv/240820-spring-ai.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
@@ -184,8 +186,6 @@
     "okdevtv/240808-mount.md",
     "okdevtv/240807-ollama.md",
     "okdevtv/240804.md",
-    "okdevtv/240805-winxp.md",
-    "okdevtv/240803.md",
     "prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
