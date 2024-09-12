@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "215168bb374ea5eb",
+        "id": "b3246d293442f335",
         "type": "tabs",
         "children": [
           {
-            "id": "7d1d02a8b156e630",
+            "id": "802f91bd0a0c3b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240909-cloudflare-htts.md",
+                "file": "okdevtv/240912-aicandoit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240909-cloudflare-htts.md",
+                "file": "okdevtv/240912-aicandoit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240909-cloudflare-htts.md",
+                "file": "okdevtv/240912-aicandoit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240909-cloudflare-htts.md"
+                "file": "okdevtv/240912-aicandoit.md"
               }
             }
           },
@@ -154,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d1d02a8b156e630",
+  "active": "802f91bd0a0c3b81",
   "lastOpenFiles": [
-    "okdevtv/240908-ec2-spot.md",
-    "okdevtv/240909-cloudflare-htts.md",
     "!OKdevTV.md",
+    "okdevtv/240912-aicandoit.md",
+    "okdevtv/240909-cloudflare-htts.md",
+    "okdevtv/240908-ec2-spot.md",
     "okdevtv/240607.md",
     "Untitled.md",
     "tmp.md",
@@ -184,7 +185,6 @@
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
-    "okdevtv/240817-youtube-transcript.md",
     "Untitled.canvas",
     "prompts",
     "okdevtv/images/01-agenda.png",

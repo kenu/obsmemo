@@ -9,7 +9,7 @@ Letencrypt보다 더 빠른 https HTTPS H.T.T.P.S 설정 방법입니다.
 
 갑니다.
 
-개인적으로는 그래도 Letsencrypt를 좋아합니다.
+**개인적으로는 그래도 Letsencrypt를 좋아합니다.**
 
 80만 엽니다. 443 안열어도 됩니다.
 

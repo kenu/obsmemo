@@ -83,6 +83,8 @@
 [[240906-msa]]
 [[240908-ec2-spot]]
 [[240909-cloudflare-htts]]
+[[240912-aicandoit]]
+
 
 
 
