@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3246d293442f335",
+        "id": "d0b768fb86e0f4bd",
         "type": "tabs",
         "children": [
           {
-            "id": "802f91bd0a0c3b81",
+            "id": "8ce6a38ef50e403a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240912-aicandoit.md",
+                "file": "okdevtv/240913-gamma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240912-aicandoit.md",
+                "file": "okdevtv/240913-gamma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240912-aicandoit.md",
+                "file": "okdevtv/240913-gamma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240912-aicandoit.md"
+                "file": "okdevtv/240913-gamma.md"
               }
             }
           },
@@ -154,14 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "802f91bd0a0c3b81",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/240913-gamma.md",
+    "egovmsa/240913-msa.md",
+    "egovmsa",
     "okdevtv/240912-aicandoit.md",
     "okdevtv/240909-cloudflare-htts.md",
     "okdevtv/240908-ec2-spot.md",
     "okdevtv/240607.md",
-    "Untitled.md",
     "tmp.md",
     "corely.md",
     "okdevtv/240906-msa.md",
@@ -181,7 +183,6 @@
     "okdevtv/240822-zed.md",
     "okdevtv/240821-oklive.md",
     "okdevtv/240821-errcover.md",
-    "okdevtv/240820-spring-ai.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",

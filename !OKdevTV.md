@@ -84,6 +84,7 @@
 [[240908-ec2-spot]]
 [[240909-cloudflare-htts]]
 [[240912-aicandoit]]
+[[240913-gamma]]
 
 
 
