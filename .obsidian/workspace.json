@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240915-concept.md",
+                "file": "okdevtv/240916-readcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240915-concept.md",
+                "file": "okdevtv/240916-readcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240915-concept.md",
+                "file": "okdevtv/240916-readcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240915-concept.md"
+                "file": "okdevtv/240916-readcode.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ce6a38ef50e403a",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "!OKdevTV.md",
-    "240915-concept.md",
+    "okdevtv/240916-readcode.md",
+    "okdevtv/240915-concept.md",
     "egovmsa/240914-msa-Git.md",
     "egovmsa/240913-msa.md",
     "okdevtv/240906-msa.md",
@@ -182,7 +183,6 @@
     "okdevtv/240828-devnews.md",
     "okdevtv/240827-odevtube.md",
     "okdevtv/240827-nutch.md",
-    "okdevtv/240826-GCP.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
