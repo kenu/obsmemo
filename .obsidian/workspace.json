@@ -11,10 +11,11 @@
             "id": "8ce6a38ef50e403a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "egovmsa/README.md.md",
-                "staged": false
+                "file": "240915-concept.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "240915-concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "240915-concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "240915-concept.md"
+              }
             }
           },
           {
@@ -151,14 +156,15 @@
   },
   "active": "8ce6a38ef50e403a",
   "lastOpenFiles": [
+    "!OKdevTV.md",
+    "240915-concept.md",
     "egovmsa/240914-msa-Git.md",
+    "egovmsa/240913-msa.md",
     "okdevtv/240906-msa.md",
     "java/inheritance.md",
     "java/synchronized.md",
     "egovmsa/README.md.md",
-    "egovmsa/240913-msa.md",
     "okdevtv/240913-gamma.md",
-    "!OKdevTV.md",
     "egovmsa",
     "okdevtv/240912-aicandoit.md",
     "okdevtv/240909-cloudflare-htts.md",
@@ -177,7 +183,6 @@
     "okdevtv/240827-odevtube.md",
     "okdevtv/240827-nutch.md",
     "okdevtv/240826-GCP.md",
-    "okdevtv/240824-llama405b.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
