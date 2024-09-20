@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b768fb86e0f4bd",
+        "id": "f3f13586398a25f5",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce6a38ef50e403a",
+            "id": "cfe119aede1a830f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240916-readcode.md",
+                "file": "okdevtv/240920-github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240916-readcode.md",
+                "file": "okdevtv/240920-github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240916-readcode.md",
+                "file": "okdevtv/240920-github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240916-readcode.md"
+                "file": "okdevtv/240920-github.md"
               }
             }
           },
@@ -154,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "cfe119aede1a830f",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/240920-github.md",
     "okdevtv/240916-readcode.md",
     "okdevtv/240915-concept.md",
     "egovmsa/240914-msa-Git.md",
@@ -182,7 +183,6 @@
     "okdevtv/240829-gh-cli.md",
     "okdevtv/240828-devnews.md",
     "okdevtv/240827-odevtube.md",
-    "okdevtv/240827-nutch.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
