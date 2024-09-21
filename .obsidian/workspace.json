@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240920-github.md",
+                "file": "okdevtv/240921-crawler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240920-github.md",
+                "file": "okdevtv/240921-crawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240920-github.md",
+                "file": "okdevtv/240921-crawler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240920-github.md"
+                "file": "okdevtv/240921-crawler.md"
               }
             }
           },
           {
-            "id": "d1354f982d70ac32",
+            "id": "4df6ae750f9be12d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfe119aede1a830f",
+  "active": "ae3f09ea588c8927",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/240921-crawler.md",
     "okdevtv/240920-github.md",
     "okdevtv/240916-readcode.md",
     "okdevtv/240915-concept.md",
@@ -182,7 +183,6 @@
     "Welcome.md",
     "okdevtv/240829-gh-cli.md",
     "okdevtv/240828-devnews.md",
-    "okdevtv/240827-odevtube.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
