@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d3abb666419b6f0",
+            "id": "ec1661945b641c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/240926-llama3.2.md",
+                "file": "240930-ai-coding.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "담당",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okdevtv/240926-llama3.2.md",
+                "file": "240930-ai-coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okdevtv/240926-llama3.2.md",
+                "file": "240930-ai-coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okdevtv/240926-llama3.2.md"
+                "file": "240930-ai-coding.md"
               }
             }
           },
@@ -155,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "270a2dee4a51e33a",
+  "active": "ec1661945b641c63",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "240930-ai-coding.md",
+    "okdevtv/240928-egovmsa.md",
     "okdevtv/240926-llama3.2.md",
     "okdevtv/240925-cursor.md",
     "corely.md",
     "Welcome.md",
     "okdevtv/240921-crawler.md",
-    "Untitled.md",
     "okdevtv/240920-github.md",
     "okdevtv/240916-readcode.md",
     "okdevtv/240915-concept.md",
@@ -183,7 +183,6 @@
     "okdevtv/240905-nextjs.md",
     "next.md",
     "5 16 27 39 11.md",
-    "prompts/prompts.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",

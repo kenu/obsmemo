@@ -91,6 +91,8 @@
 [[240921-crawler]]
 [[240925-cursor]]
 [[240926-llama3.2]]
+[[240928-egovmsa]]
+[[240930-ai-coding]]
 
 
 
