@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240930-ai-coding.md",
+                "file": "okdevtv/241001-kube.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240930-ai-coding.md",
+                "file": "okdevtv/241001-kube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240930-ai-coding.md",
+                "file": "okdevtv/241001-kube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,17 +121,17 @@
             }
           },
           {
-            "id": "386c57b7bcd1f62f",
+            "id": "aa0ef2d5819f3ef3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "240930-ai-coding.md"
+                "file": "okdevtv/241001-kube.md"
               }
             }
           },
           {
-            "id": "4df6ae750f9be12d",
+            "id": "bda9129b13cb9a06",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -142,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec1661945b641c63",
+  "active": "aa0ef2d5819f3ef3",
   "lastOpenFiles": [
     "!OKdevTV.md",
-    "240930-ai-coding.md",
+    "okdevtv/241001-kube.md",
+    "okdevtv/240930-ai-coding.md",
     "okdevtv/240928-egovmsa.md",
     "okdevtv/240926-llama3.2.md",
     "okdevtv/240925-cursor.md",
@@ -182,7 +184,6 @@
     "tmp.md",
     "okdevtv/240905-nextjs.md",
     "next.md",
-    "5 16 27 39 11.md",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
