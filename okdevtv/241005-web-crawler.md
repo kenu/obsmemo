@@ -69,6 +69,19 @@ echo "export JAVA_HOME=~/.sdkman/candidates/java/current" >> ~/.zshrc
 1초마다 ㄷㄷㄷ gptbot
 
 nutch의 기본 딜레이 시간은 5초입니다.
+### Solr
+
+```sh
+sudo vi /etc/security/limits.conf
+```
+
+```
+* hard nofile 65535
+* soft nofile 65535
+
+* hard nproc 65535
+* soft nproc 65535
+```
 
 ### Crawling with n iterations
 
