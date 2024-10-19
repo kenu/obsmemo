@@ -98,5 +98,6 @@
 [[241001-kube]]
 [[241005-web-crawler]]
 [[241007-ai-dev]]
-
+[[241012-msa-anti-patterns]]
+[[241019-msa-docs]]
 
