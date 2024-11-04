@@ -101,4 +101,7 @@
 [[241012-msa-anti-patterns]]
 [[241019-msa-docs]]
 [[241020-solr]]
+[[241025-lazy-developer]]
 
+---
+[[241104-ollama]]

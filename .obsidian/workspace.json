@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4778774cf6d9fae2",
+        "id": "04cb0ac2089965f6",
         "type": "tabs",
         "children": [
           {
-            "id": "57f5924e918ea3df",
+            "id": "a1d5c495099f954c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/241020-solr.md",
+                "file": "okdevtv/241104-ollama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241020-solr"
+              "title": "241104-ollama"
             }
           }
         ]
@@ -168,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57f5924e918ea3df",
+  "active": "a1d5c495099f954c",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/241104-ollama.md",
+    "okdevtv/241025-lazy-developer.md",
     "okdevtv/241020-solr.md",
     "Untitled.md",
     "okdevtv/241019-msa-docs.md",
@@ -194,8 +196,6 @@
     "okdevtv/240906-msa.md",
     "java/inheritance.md",
     "java/synchronized.md",
-    "egovmsa/README.md.md",
-    "okdevtv/240913-gamma.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
