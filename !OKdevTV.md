@@ -108,3 +108,12 @@
 [[241105-ollama]]
 [[241122-windsurf]]
 [[241123-markdown]]
+[[241129-windsurf]]
+
+---
+[[241202-windsurf]]
+[[241204-windsurf]]
+[[241208-exclaidraw]]
+[[241210-ai-사용매뉴얼]]
+[[241211-AI-savage]]
+[[241217-prompt]]
