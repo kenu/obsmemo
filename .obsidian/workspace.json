@@ -11,10 +11,14 @@
             "id": "fdac2fb11ce79c06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "241219-llm-ai.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "241219-llm-ai"
             }
           }
         ]
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,9 +171,11 @@
   },
   "active": "fdac2fb11ce79c06",
   "lastOpenFiles": [
+    "!OKdevTV.md",
+    "241219-llm-ai.md",
+    "tmp.md",
     "Untitled.md",
     "prompts/241217-prompt.md",
-    "!OKdevTV.md",
     "okdevtv/241211-AI-savage.md",
     "okdevtv/241210-ai-사용매뉴얼.md",
     "okdevtv/241208-exclaidraw.md",
@@ -190,8 +197,6 @@
     "okdevtv/241005-web-crawler.md",
     "okdevtv/241001-kube.md",
     "okdevtv/240930-ai-coding.md",
-    "okdevtv/240928-egovmsa.md",
-    "okdevtv/240926-llama3.2.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
