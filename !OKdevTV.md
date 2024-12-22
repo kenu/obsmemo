@@ -118,3 +118,6 @@
 [[241211-AI-savage]]
 [[241217-prompt]]
 [[241219-llm-ai]]
+[[241220-llm-ai-lmstudio]]
+[[241221-llm-ai]]
+[[241222-llm-ai]]

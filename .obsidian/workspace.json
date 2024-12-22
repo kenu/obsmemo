@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "350cbbaa17f72d1a",
+        "id": "511a2d9bf0822eed",
         "type": "tabs",
         "children": [
           {
-            "id": "fdac2fb11ce79c06",
+            "id": "f64a255d4cb7472a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "241219-llm-ai.md",
+                "file": "okdevtv/241222-llm-ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "241222-llm-ai"
+            }
+          },
+          {
+            "id": "2dd74ed8572c2094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "okdevtv/241219-llm-ai.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,13 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdac2fb11ce79c06",
+  "active": "f64a255d4cb7472a",
   "lastOpenFiles": [
     "!OKdevTV.md",
-    "241219-llm-ai.md",
+    "okdevtv/241219-llm-ai.md",
+    "okdevtv/241220-llm-ai-lmstudio.md",
+    "okdevtv/241221-llm-ai.md",
+    "okdevtv/241222-llm-ai.md",
+    "!prompts/241217-prompt.md",
+    "okdevtv/240726.md",
     "tmp.md",
     "Untitled.md",
-    "prompts/241217-prompt.md",
     "okdevtv/241211-AI-savage.md",
     "okdevtv/241210-ai-사용매뉴얼.md",
     "okdevtv/241208-exclaidraw.md",
@@ -183,7 +200,7 @@
     "okdevtv/241202-windsurf.md",
     "okdevtv/241129-windsurf.md",
     "next.md",
-    "prompts/corely.md",
+    "!prompts/corely.md",
     "okdevtv/241123-markdown.md",
     "okdevtv/241122-windsurf.md",
     "okdevtv/241105-ollama.md",
@@ -193,16 +210,12 @@
     "okdevtv/241019-msa-docs.md",
     "Untitled 1.md",
     "okdevtv/241012-msa-anti-patterns.md",
-    "okdevtv/241007-ai-dev.md",
-    "okdevtv/241005-web-crawler.md",
-    "okdevtv/241001-kube.md",
-    "okdevtv/240930-ai-coding.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "canvas",
     "Untitled.canvas",
-    "prompts",
+    "!prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
