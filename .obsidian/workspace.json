@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/241222-llm-ai.md",
+                "file": "241223-devtools-ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241222-llm-ai"
+              "title": "241223-devtools-ai"
             }
           },
           {
@@ -185,10 +185,11 @@
   "active": "f64a255d4cb7472a",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "241223-devtools-ai.md",
+    "okdevtv/241222-llm-ai.md",
     "okdevtv/241219-llm-ai.md",
     "okdevtv/241220-llm-ai-lmstudio.md",
     "okdevtv/241221-llm-ai.md",
-    "okdevtv/241222-llm-ai.md",
     "!prompts/241217-prompt.md",
     "okdevtv/240726.md",
     "tmp.md",
@@ -209,7 +210,6 @@
     "okdevtv/241020-solr.md",
     "okdevtv/241019-msa-docs.md",
     "Untitled 1.md",
-    "okdevtv/241012-msa-anti-patterns.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
