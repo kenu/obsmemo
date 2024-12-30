@@ -122,3 +122,4 @@
 [[241221-llm-ai]]
 [[241222-llm-ai]]
 [[241223-devtools-ai]]
+[[241230-windsurf]]
