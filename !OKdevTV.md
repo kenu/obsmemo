@@ -123,3 +123,6 @@
 [[241222-llm-ai]]
 [[241223-devtools-ai]]
 [[241230-windsurf]]
+
+---
+[[250101-llamaindex]]
