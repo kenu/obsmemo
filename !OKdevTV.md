@@ -126,3 +126,4 @@
 
 ---
 [[250101-llamaindex]]
+[[250102-squidgame]]
