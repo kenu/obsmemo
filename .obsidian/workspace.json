@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "511a2d9bf0822eed",
+        "id": "842cb4a97005a15c",
         "type": "tabs",
         "children": [
           {
-            "id": "290bb691face7371",
+            "id": "d14f48a6f65272be",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/2025-future.excalidraw"
+                "file": "!prompts/250125-daegu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2025-future"
+              "icon": "lucide-file",
+              "title": "250125-daegu"
             }
           }
         ]
@@ -169,8 +171,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "290bb691face7371",
+  "active": "d14f48a6f65272be",
   "lastOpenFiles": [
+    "!prompts/250125-daegu.md",
     "Excalidraw/2025-future.excalidraw",
     "!OKdevTV.md",
     "okdevtv/250111-obsidian.md",
@@ -209,7 +212,6 @@
     "canvas/Layer.canvas",
     "canvas",
     "Untitled.canvas",
-    "!prompts",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
