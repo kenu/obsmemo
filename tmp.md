@@ -557,3 +557,10 @@ yt-live-chat-banner-manager {
 
 - 유튜브 실시간 스트리밍 투명한 채팅창 띄우는 방법
     - [https://www.youtube.com/watch?v=DyvMTIoyCMU](https://www.youtube.com/watch?v=DyvMTIoyCMU)
+
+
+
+# 18:00 에 방송 재개하겠습니다.
+#커피한잔
+# ☕️
+

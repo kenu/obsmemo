@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!prompts/250125-daegu.md",
+                "file": "tmp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250125-daegu"
+              "title": "tmp"
+            }
+          },
+          {
+            "id": "e81ff9d772193e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "okdevtv/250503-server-migration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250503-server-migration"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,12 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d14f48a6f65272be",
+  "active": "e81ff9d772193e4b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-25 20.07.43.excalidraw.md",
-    "!prompts/250125-daegu.md",
-    "Excalidraw/2025-future.excalidraw",
+    "tmp.md",
+    "okdevtv/250503-server-migration.md",
     "!OKdevTV.md",
+    "!prompts/250125-daegu.md",
+    "Excalidraw/Drawing 2025-01-25 20.07.43.excalidraw.md",
+    "Excalidraw/2025-future.excalidraw",
     "okdevtv/250111-obsidian.md",
     "okdevtv/241230-windsurf.md",
     "Excalidraw/Drawing 2025-01-11 21.09.25.excalidraw.md",
@@ -196,7 +214,6 @@
     "okdevtv/241221-llm-ai.md",
     "!prompts/241217-prompt.md",
     "okdevtv/240726.md",
-    "tmp.md",
     "okdevtv/241211-AI-savage.md",
     "okdevtv/241210-ai-사용매뉴얼.md",
     "okdevtv/241208-exclaidraw.md",
@@ -206,7 +223,6 @@
     "next.md",
     "!prompts/corely.md",
     "okdevtv/241123-markdown.md",
-    "okdevtv/241122-windsurf.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
