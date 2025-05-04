@@ -23,7 +23,104 @@
 6. 필요한 컴포넌트 실행
 
 - LoginPolicy
-- Board
 - Author
+- Board
 - Questionnaire
 - Cmmncode
+
+## AWS EC2
+- Spot Instance
+- 16G t3a.xlarge
+
+### env setup
+- zsh, git, docker, java17, maven
+- https://okdevtv.com/mib/egov/msa
+
+```sh
+sudo dnf install zsh git util-linux-user htop maven docker -y
+
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+```
+
+```sh
+cd ~/.oh-my-zsh/custom/plugins
+git clone https://github.com/zsh-users/zsh-autosuggestions.git
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+
+```
+
+```
+plugins=(
+    git
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+)
+
+```
+
+```sh
+sudo usermod -a -G docker ec2-user
+
+DOCKER_CONFIG=${DOCKER_CONFIG:-$HOME/.docker}
+mkdir -p $DOCKER_CONFIG/cli-plugins
+
+```
+
+```sh
+curl -SL https://github.com/docker/compose/releases/download/v2.35.1/docker-compose-linux-x86_64 -o $DOCKER_CONFIG/cli-plugins/docker-compose
+chmod +x $DOCKER_CONFIG/cli-plugins/docker-compose
+docker compose version
+
+```
+
+```sh
+sudo usermod -a -G docker ec2-user
+```
+
+### Code download
+```
+take ~/git
+pwd
+git clone https://github.com/kenu/egovframe-common-components-msa-krds
+cd egovframe-common-components-msa-krds
+git checkout -b kenu origin/kenu
+```
+
+### Database
+```sh
+cd docker-compose/mysql
+pwd
+docker compose up -d
+docker ps
+```
+
+### Build
+```
+cd ~/git/egovframe-common-components-msa-krds
+mvn clean package
+```
+
+### Run
+```sh
+~/git/egovframe-common-components-msa-krds
+cd EurekaServer
+nohup java -jar target/EurekaServer.jar&
+cd ../ConfigServer
+nohup java -jar target/ConfigServer.jar&
+cd ../GatewayServer
+nohup java -jar target/GatewayServer.jar&
+cd ../EgovMain
+nohup java -jar target/EgovMain.jar&
+cd ../EgovLogin
+nohup java -jar target/EgovLogin.jar&
+cd ../EgovLoginPolicy
+nohup java -jar target/EgovLoginPolicy.jar&
+cd ../EgovAuthor
+nohup java -jar target/EgovAuthor.jar&
+cd ../EgovBoard
+nohup java -jar target/EgovBoard.jar&
+cd ../Questionnaire
+nohup java -jar target/Questionnaire.jar&
+
+```
