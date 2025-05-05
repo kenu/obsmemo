@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23451aabdffb2fe8",
+        "id": "15a46b96139e3460",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2ad71c6940d8cf",
+            "id": "602a5295597f614d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/250504-egov-msa-krds.md",
+                "file": "okdevtv/250505-windsurf-mcp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250504-egov-msa-krds"
+              "title": "250505-windsurf-mcp"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -173,13 +172,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff2ad71c6940d8cf",
+  "active": "602a5295597f614d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "okdevtv/250505-windsurf-mcp.md",
+    "images",
     "!OKdevTV.md",
+    "images/windsurf-mcp.webp",
+    "Welcome.md",
+    "tmp.md",
+    "next.md",
     "okdevtv/250504-egov-msa-krds.md",
     "okdevtv/250503-server-migration.md",
     "250504-mentoring.md",
-    "tmp.md",
     "!prompts/250125-daegu.md",
     "Excalidraw/Drawing 2025-01-25 20.07.43.excalidraw.md",
     "Excalidraw/2025-future.excalidraw",
@@ -205,14 +210,9 @@
     "okdevtv/241211-AI-savage.md",
     "okdevtv/241210-ai-사용매뉴얼.md",
     "okdevtv/241208-exclaidraw.md",
-    "okdevtv/241204-windsurf.md",
-    "okdevtv/241202-windsurf.md",
-    "okdevtv/241129-windsurf.md",
-    "next.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
-    "canvas",
     "Untitled.canvas",
     "okdevtv/images/01-agenda.png",
     "okdevtv/images/02-title.png",
@@ -221,8 +221,6 @@
     "okdevtv/images/04-agenda.png",
     "okdevtv/images/05-impact-of-github-copilot-450-developers.png",
     "okdevtv/images/06-copilot-features.png",
-    "okdevtv/images/07-sw-lifecycle.png",
-    "okdevtv/images/08-pr-summary.png",
-    "okdevtv/images/11-ai-powered-dev.png"
+    "okdevtv/images/07-sw-lifecycle.png"
   ]
 }
