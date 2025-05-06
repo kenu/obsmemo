@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/250505-windsurf-mcp.md",
+                "file": "okdevtv/250506-ai-survival.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250505-windsurf-mcp"
+              "title": "250506-ai-survival"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -174,15 +174,16 @@
   },
   "active": "602a5295597f614d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "okdevtv/250505-windsurf-mcp.md",
-    "images",
     "!OKdevTV.md",
+    "okdevtv/250506-ai-survival.md",
+    "okdevtv/250504-egov-msa-krds.md",
+    "okdevtv/250505-windsurf-mcp.md",
+    "Untitled.md",
+    "images",
     "images/windsurf-mcp.webp",
     "Welcome.md",
     "tmp.md",
     "next.md",
-    "okdevtv/250504-egov-msa-krds.md",
     "okdevtv/250503-server-migration.md",
     "250504-mentoring.md",
     "!prompts/250125-daegu.md",
@@ -209,7 +210,6 @@
     "okdevtv/240726.md",
     "okdevtv/241211-AI-savage.md",
     "okdevtv/241210-ai-사용매뉴얼.md",
-    "okdevtv/241208-exclaidraw.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",

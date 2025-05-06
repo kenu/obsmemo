@@ -1,7 +1,7 @@
 - 윈드서프에서 MCP를 사용하는 방법입니다.
 
 ### Windsurf
-- https://windsurf.com : cursor ai 와 경쟁 관계
+- https://windsurf.com : cursor ai($20/월) 와 경쟁 관계
 - $15/월
 
 ### MCP (Model Context Protocol)

@@ -133,4 +133,5 @@
 [[250503-server-migration]]
 [[250504-egov-msa-krds]]
 [[250505-windsurf-mcp]]
+[[250506-ai-survival]]
 
