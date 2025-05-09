@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15a46b96139e3460",
+        "id": "f500ba777c6011fb",
         "type": "tabs",
         "children": [
           {
-            "id": "602a5295597f614d",
+            "id": "3c04aa9e8261d047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/250506-ai-survival.md",
+                "file": "okdevtv/250509-ai-editors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250506-ai-survival"
+              "title": "250509-ai-editors"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -172,9 +173,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "602a5295597f614d",
+  "active": "3c04aa9e8261d047",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "2024.md",
+    "okdevtv/250509-ai-editors.md",
+    "Excalidraw/Drawing 2025-01-11 21.09.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-25 20.07.43.excalidraw.md",
     "okdevtv/250506-ai-survival.md",
     "okdevtv/250504-egov-msa-krds.md",
     "okdevtv/250505-windsurf-mcp.md",
@@ -187,11 +192,9 @@
     "okdevtv/250503-server-migration.md",
     "250504-mentoring.md",
     "!prompts/250125-daegu.md",
-    "Excalidraw/Drawing 2025-01-25 20.07.43.excalidraw.md",
     "Excalidraw/2025-future.excalidraw",
     "okdevtv/250111-obsidian.md",
     "okdevtv/241230-windsurf.md",
-    "Excalidraw/Drawing 2025-01-11 21.09.25.excalidraw.md",
     "Excalidraw/오픈 소스-2024-11-22-0717.excalidraw",
     "Excalidraw",
     "okdevtv/250102-squidgame.md",
@@ -208,8 +211,6 @@
     "okdevtv/241221-llm-ai.md",
     "!prompts/241217-prompt.md",
     "okdevtv/240726.md",
-    "okdevtv/241211-AI-savage.md",
-    "okdevtv/241210-ai-사용매뉴얼.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
