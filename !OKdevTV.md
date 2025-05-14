@@ -11,6 +11,8 @@
 [[250505-windsurf-mcp]]
 [[250506-ai-survival]]
 [[250509-ai-editors]]
+[[250510-dockerize]]
+[[250514-vscode-gh]]
 
 
 

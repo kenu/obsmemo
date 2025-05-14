@@ -5,11 +5,12 @@
 - https://zed.dev
 
 ## Plugins 플러그인
+
 - GitHub Copilot
 - Tabnine
 - Cody: AI
 - Cline
-- Roo Code
+- **Roo Code**
 - IntelliCode
 - CodeGPT
 - Google Cloud Code
