@@ -13,6 +13,8 @@
 [[250509-ai-editors]]
 [[250510-dockerize]]
 [[250514-vscode-gh]]
+[[250516-mcp-quickstart]]
+[[250517-mcp-database]]
 
 
 
