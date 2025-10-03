@@ -21,4 +21,5 @@
 
 [[251001-odevtube-docker]]
 [[251002-svn-story]]
+[[251003-oauth-github]]
 

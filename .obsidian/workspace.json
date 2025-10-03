@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/251002-svn-story.md",
+                "file": "okdevtv/251003-oauth-github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251002-svn-story"
+              "title": "251003-oauth-github"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -178,6 +177,7 @@
   "active": "83e0fa25c041eb19",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/251003-oauth-github.md",
     "okdevtv/251002-svn-story.md",
     "okdevtv/251001-odevtube-docker.md",
     "okdevtv/250930-odevtube-01.md",
@@ -212,7 +212,6 @@
     "elimination.mp3",
     "footstep.mp3",
     "okdevtv/250101-llamaindex.md",
-    "okdevtv/241223-devtools-ai.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
