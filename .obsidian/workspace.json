@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okdevtv/251003-oauth-github.md",
+                "file": "okdevtv/251004-war2boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251003-oauth-github"
+              "title": "251004-war2boot"
             }
           }
         ]
@@ -174,9 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83e0fa25c041eb19",
+  "active": "72a84376f9400777",
   "lastOpenFiles": [
     "!OKdevTV.md",
+    "okdevtv/251004-war2boot.md",
     "okdevtv/251003-oauth-github.md",
     "okdevtv/251002-svn-story.md",
     "okdevtv/251001-odevtube-docker.md",
@@ -211,7 +212,6 @@
     "doll.mp3",
     "elimination.mp3",
     "footstep.mp3",
-    "okdevtv/250101-llamaindex.md",
     "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
