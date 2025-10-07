@@ -23,4 +23,5 @@
 [[251002-svn-story]]
 [[251003-oauth-github]]
 [[251004-war2boot]]
+[[251007-how-much-ai]]
 
