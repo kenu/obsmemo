@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -174,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "099e874c222f7850",
   "lastOpenFiles": [
     "!OKdevTV.md",
     "okdevtv/251010-git-rollback-mp4.md",
