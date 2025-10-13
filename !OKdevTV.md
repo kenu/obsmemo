@@ -28,3 +28,4 @@
 [[251011-java-spring-why]]
 [[251011-tabby-terminal]]
 [[251012-odevtube-freedns]]
+[[251013-javax2jakarta]]
