@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "251013-javax2jakarta"
             }
+          },
+          {
+            "id": "bc07f3a2e1006397",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "df81f5f093a453b0",
@@ -174,10 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72a84376f9400777",
+  "active": "28ad6666985b6845",
   "lastOpenFiles": [
-    "!OKdevTV.md",
+    "okdevtv/251013-images/tomcat9to10-04-utf8.png",
+    "okdevtv/251013-images/tomcat9to10-03-utf.png",
     "okdevtv/251013-javax2jakarta.md",
+    "okdevtv/251013-images/tomcat9to10-01.png",
+    "okdevtv/251013-images/tomcat9to10-02-webxml.png",
+    "okdevtv/251013-images",
+    "!OKdevTV.md",
     "okdevtv/251012-odevtube-freedns.md",
     "okdevtv/251011-java-spring-why.md",
     "okdevtv/251011-tabby-terminal.md",
@@ -203,7 +218,6 @@
     "images/windsurf-mcp.webp",
     "Welcome.md",
     "tmp.md",
-    "next.md",
     "Excalidraw/2025-future.excalidraw",
     "Excalidraw/오픈 소스-2024-11-22-0717.excalidraw",
     "Excalidraw",
@@ -212,7 +226,6 @@
     "doll.mp3",
     "elimination.mp3",
     "footstep.mp3",
-    "egovmsa",
     "canvas/다이어그램.canvas",
     "canvas/Layer.canvas",
     "Untitled.canvas",
@@ -220,9 +233,6 @@
     "okdevtv/images/02-title.png",
     "okdevtv/images/03-mechelle-duke.png",
     "okdevtv/images/03a-captions.png",
-    "okdevtv/images/04-agenda.png",
-    "okdevtv/images/05-impact-of-github-copilot-450-developers.png",
-    "okdevtv/images/06-copilot-features.png",
-    "okdevtv/images/07-sw-lifecycle.png"
+    "okdevtv/images/04-agenda.png"
   ]
 }

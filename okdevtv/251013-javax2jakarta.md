@@ -1,7 +1,7 @@
 ## Java EE에서 Jakarta EE로! 대규모 마이그레이션
 - https://github.com/apache/tomcat-jakartaee-migration
-아파치 톰캣의 Jakarta EE 마이그레이션 툴은 Java EE 8 기반의 웹 애플리케이션을 Jakarta EE 9로 자동 변환해주는 도구. 
-Command Line 또는 Ant 태스크로 사용할 수 있으며, 패키지 이름 변경부터 XML 설정 파일까지 자동으로 변환
+아파치 톰캣의 Jakarta EE 마이그레이션 툴은 Java EE 8 기반의 웹 애플리케이션을 Jakarta EE 9로 자동 변환해주는 도구입니다. 
+Command Line 또는 Ant 태스크로 사용할 수 있으며, 패키지 이름 변경부터 XML 설정 파일까지 자동으로 변환합니다.
 
 ```mermaid
 flowchart LR
@@ -32,7 +32,10 @@ flowchart LR
 
 1. **실행**:
 ```bash
+java -version #17
 java -jar jakartaee-migration-*-shaded.jar <소스> <대상>
+
+java -jar jakartaee-migration-1.0.10-SNAPSHOT.jar 
 ```
 
   - 소스는 압축 파일, 폴더 또는 개별 파일 경로를 지정
@@ -60,3 +63,9 @@ java -jar jakartaee-migration-*-shaded.jar <소스> <대상>
 - 변경된 각 JAR 파일마다 경고 로그가 기록됨
 - Debian, Ubuntu, Fedora 시스템에서는 `tomcat-jakartaee-migration` 패키지를 설치하여 `javax2jakarta` 명령어로 사용 가능
 
+![[tomcat9to10-01.png]]
+![[tomcat9to10-02-webxml.png]]
+
+![[tomcat9to10-03-utf.png]]
+
+![[tomcat9to10-04-utf8.png]]
