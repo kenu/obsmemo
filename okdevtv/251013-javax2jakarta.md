@@ -35,7 +35,7 @@ flowchart LR
 java -version #17
 java -jar jakartaee-migration-*-shaded.jar <소스> <대상>
 
-java -jar jakartaee-migration-1.0.10-SNAPSHOT.jar 
+java -jar jakartaee-migration-1.0.10-SNAPSHOT-shaded.jar 9 9_
 ```
 
   - 소스는 압축 파일, 폴더 또는 개별 파일 경로를 지정
