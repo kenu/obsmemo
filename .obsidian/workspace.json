@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "251217-tdd.md",
+                "file": "251219-ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251217-tdd"
+              "title": "251219-ai"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "251219-ai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "130cc572708f078d",
+  "active": "28ad6666985b6845",
   "lastOpenFiles": [
     "251217-tdd.md",
     "251219-ai.md",
